@@ -1,0 +1,8 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "main": "./js/src/index",
+  "dependencies": {
+    "q": "aleclarson/q#1.0.0"
+  }
+}
